@@ -20,6 +20,8 @@ connectDB()
     console.error("MONGODB connection failed!!! ", err);
     process.exit(1); // Exit the application if DB connection fails
   });
+
+  
 /*
 import express from "express";
 const app = express();

@@ -1,0 +1,8 @@
+Basic Configuration and Entry Points: .env and app.js
+Routing: routes/user.routes.js
+Controllers: controllers/user.controller.js
+Models and Database: db/index.js, models/*
+Middleware Functions: middlewares/*
+Utility Functions: utils/*
+Constants and Configurations: constants.js and .gitignore
+Main Entry Point: index.js
